@@ -20,8 +20,9 @@ int main(void)
 	printf("PI default \t : %f\n", PI_VALUE);
 	printf("PI 2 digits \t : %.2f\n", PI_VALUE);
 
+	printf("width demo \t : [%8d]\n", widt_demo_num);
 
-	printf("width demo \t : [%8d]\n", sample_char);
+	printf("Char sample \t : %c\n", sample_char);
 	printf("Backslach \t : \\\n");
 	return 0;
 
