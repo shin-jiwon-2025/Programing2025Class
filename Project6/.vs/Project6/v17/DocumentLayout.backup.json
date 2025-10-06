@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ansys17\\Documents\\Programing2025Class\\Project6\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B4AF7CC5-5B34-4B8F-8940-A993CF1EBA17}|Project6\\Project6.vcxproj|C:\\Users\\ansys17\\Documents\\Programing2025Class\\Project6\\Project6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B4AF7CC5-5B34-4B8F-8940-A993CF1EBA17}|Project6\\Project6.vcxproj|solutionrelative:Project6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\\uC11C\uC2B9\uB355\\Documents\\Visual Studio 2022\\Programing2025Class\\Project6\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\ansys17\\Documents\\Programing2025Class\\Project6\\Project6\\main.cpp",
-              "RelativeDocumentMoniker": "Project6\\main.cpp",
-              "ToolTip": "C:\\Users\\ansys17\\Documents\\Programing2025Class\\Project6\\Project6\\main.cpp*",
-              "RelativeToolTip": "Project6\\main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-01T00:22:40.802Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
