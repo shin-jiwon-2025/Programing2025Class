@@ -13,7 +13,7 @@ int main(void)
 	printf("이름, 학번, 키(m),몸무게(kg)를 입력하세요: \n");
 	int nResscanf = scanf("%s%d%f%f", Name, &StudentID, &Height, &Weight);
 	dBMI = fHeight*fWeight;
-	printf("|\")
+	printf("\")
 
 
 	
