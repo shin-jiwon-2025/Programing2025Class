@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC2E0\uC9C0\uC6D0\\Documents\\GitHub\\Programing2025Class\\PROJECT5-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81BDC70E-900C-4B1A-8BB0-CBBF6FA17E59}|PROJECT5-1\\PROJECT5-1.vcxproj|C:\\Users\\\uC2E0\uC9C0\uC6D0\\Documents\\GitHub\\Programing2025Class\\PROJECT5-1\\PROJECT5-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81BDC70E-900C-4B1A-8BB0-CBBF6FA17E59}|PROJECT5-1\\PROJECT5-1.vcxproj|solutionrelative:PROJECT5-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC2E0\uC9C0\uC6D0\\Documents\\GitHub\\Programing2025Class\\PROJECT5-1\\PROJECT5-1\\main.cpp",
+              "RelativeDocumentMoniker": "PROJECT5-1\\main.cpp",
+              "ToolTip": "C:\\Users\\\uC2E0\uC9C0\uC6D0\\Documents\\GitHub\\Programing2025Class\\PROJECT5-1\\PROJECT5-1\\main.cpp*",
+              "RelativeToolTip": "PROJECT5-1\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-18T13:54:11.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
